@@ -22,7 +22,8 @@ To get started with the app, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone  https://github.com/PradakshinaTripathi/Notes-App.git ```
+git clone  https://github.com/PradakshinaTripathi/Notes-App.git
+```
 
 2. Change the project directory:
 cd note_app
