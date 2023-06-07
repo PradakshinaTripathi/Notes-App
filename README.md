@@ -2,7 +2,7 @@
 
 A note app where you can Create, Read, Update and Delete several notes Using Database SQFLITE plugin.
 
-## Getting Started
+<!-- ## Getting Started -->
 
 <!-- This project is a starting point for a Flutter application.
 
