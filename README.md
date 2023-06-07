@@ -26,10 +26,16 @@ git clone  https://github.com/PradakshinaTripathi/Notes-App.git
 ```
 
 2. Change the project directory:
+```bash
 cd note_app
+```
 
 3. Install dependencies:
+```bash
 flutter pub get
+```
 
 4. Run the app:
+```bash
 flutter run
+```
