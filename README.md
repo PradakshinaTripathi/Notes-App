@@ -1,16 +1,34 @@
-# notes_poc
+# Note Taking App with SQFLite Database
 
-A note app where you can Create, Read, Update and Delete several notes Using Database SQFLITE plugin.
+This is a simple note-taking app built using Flutter framework and SQFLite plugin for database operations. The app allows users to create, read, update, and delete notes.
 
-<!-- ## Getting Started -->
+## Features
 
-<!-- This project is a starting point for a Flutter application.
+- Create new notes with a title, body, and timestamp.
+- View a list of all saved notes.
+- Edit existing notes.
+- Delete unwanted notes.
 
-A few resources to get you started if this is your first Flutter project:
+<!-- ## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Home Screen](screenshots/home_screen.png)
+![Add Note Screen](screenshots/add_note_screen.png)
+![Edit Note Screen](screenshots/edit_note_screen.png)
+ -->
+## Getting Started
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference. -->
+To get started with the app, follow these steps:
+
+1. Clone the repository:
+
+```bash
+git clone  https://github.com/PradakshinaTripathi/Notes-App.git
+
+2. Change the project directory:
+cd note_app
+
+3. Install dependencies:
+flutter pub get
+
+4. Run the app:
+flutter run
