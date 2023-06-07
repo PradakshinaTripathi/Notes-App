@@ -39,3 +39,6 @@ flutter pub get
 ```bash
 flutter run
 ```
+
+### note
+These commands will clone the repository, navigate to the project directory, install the required dependencies, and run the app on a connected device or emulator. Make sure you have Flutter and the necessary development tools set up before running the commands.
